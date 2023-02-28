@@ -30,15 +30,15 @@ global.jumhal = '100000000000000' //Gak usah di ubah
 global.jumlah = '1000000000' //Gak usah di ubah
 global.prefa = ['','!','.','#','&'] //Gak usah di ubah
 global.scmu = 'Sc?\nJoin Gc' //Monggo kalau mau ubah
-global.githubmu = 'https://github.com/ChataOfc' //Isi nama github mu
-global.ytmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
-global.ytvmu = 'https://youtube.com/@chataofc-' //Gak usah di ubah
-global.linkbebas = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk' //Terserah mau luh isi web apa mau github atau link group juga bisa
+global.githubmu = 'https://github.com/XienDaeMon' //Isi nama github mu
+global.ytmu = 'https://youtube.com/@DaeMon' //Gak usah di ubah
+global.ytvmu = 'https://youtube.com/@DaeMon-' //Gak usah di ubah
+global.linkbebas = 'https://github.com/XienDaeMon' //Terserah mau luh isi web apa mau github atau link group juga bisa
 global.imglink = 'https://telegra.ph/file/f8af7e61754ab26984fbc.jpg' // isi dengan image link/foto link
 global.teksqr = {
-gopay: '_Ini kak Qr Gopay nya_',
-dana: '_Ini kak Qr Dana nya_',
-ovo: '_Ini kak Qr Ovo nya_',
+gopay: '6281269734000',
+dana: '6287865346175',
+ovo: '6287865346175',
 }
 global.mess = {
     success: '✅Done',
